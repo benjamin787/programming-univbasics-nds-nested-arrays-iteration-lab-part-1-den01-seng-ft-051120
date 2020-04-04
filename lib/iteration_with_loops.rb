@@ -17,5 +17,6 @@ def find_even_values(src)
   x = 0 
   while x < evens.length do
     p evens[x]
+    x += 1
   end
 end
